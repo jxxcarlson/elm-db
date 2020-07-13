@@ -1,0 +1,2 @@
+scripts:
+  make: elm make src/Db.elm
